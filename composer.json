@@ -1,0 +1,8 @@
+{
+  "name": "telegram/php-bot",
+  "description": "Simple Telegram PHP Bot",
+  "require": {},
+  "scripts": {
+    "start": "php -S 0.0.0.0:$PORT bot.php"
+  }
+}
