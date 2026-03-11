@@ -1,0 +1,4 @@
+{
+    "today_signals": 3,
+    "last_reset": "2024-03-29"
+}
