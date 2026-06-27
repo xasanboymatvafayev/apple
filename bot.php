@@ -1,6 +1,6 @@
 <?php
 // BOTNING DASTURCHISI: @ShamshodbekDev
-define('BOT_TOKEN', '8616010952:AAFhOYNeoWQgVmKcumWnnvaJMdj1dOx28k4'); // Bot token joyi
+define('BOT_TOKEN', '8709747383:AAGIyESZK1y-KU5owawcZlJtugFsmodEUrg'); // Bot token joyi
 define('ADMIN_ID', '6365371142'); // Admin id yozing
 
 define('USERS_FILE', 'users.txt');
