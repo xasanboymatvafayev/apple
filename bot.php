@@ -396,7 +396,7 @@ $caption = "🎯 <b>APPLE FORTUNA SIGNAL</b> 🎯\n\n" .
 "📡 <b>Signal:</b> " . $signal_number . "-qatorni tanlang!\n" .
 "➖➖➖➖➖➖➖➖➖➖➖\n" .
 "⚠️ <b>Diqqat:</b> Bizning silkamizdan foydalanmasangiz, signal ishlamasligi mumkin!\n\n" .
-"📱 <b>Melbet: https://melbet-42432.pro?bf=34b5f2a0e20e4_13652154101\n\n" .
+"📱 <b>1XBET: https://reffpa.com/L?tag=d_5653256m_1599c_&site=5653256&ad=1599\n\n" .
 "🔰 <b>Faqat shu silka orqali royxatdan otib kamida 50.000 som depozit qiling";
 
 if (file_exists($photo_path)) {
